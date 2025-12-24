@@ -116,7 +116,7 @@
         </p>
 
         <div class="version">
-            Version 1.0
+            Version 1.2
         </div>
 
         <footer>
